@@ -32,7 +32,7 @@ Sublime 是一个工具，其目的是提高程序员的生产效率，它的定
 
   如果找不到这个目录，可以在 Sublime 界面中先 `Preference->Browse Packages`，再通过前一级目录 `Data` 进入 `Installed Packages`。
 
-* 从 GitHub 上手动下载 Package Control 源码：https://github.com/wbond/sublime_package_control，下载 `.zip` 文件后解压，将文件夹重命名为 Package Control，拷贝到 `Sublime Text3\Data\Packages` 目录中（就是 `Preference->Browse Packages` 的目录）。
+* 从 GitHub 上手动下载 Package Control 源码：https://github.com/wbond/sublime_package_control ，下载 `.zip` 文件后解压，将文件夹重命名为 Package Control，拷贝到 `Sublime Text3\Data\Packages` 目录中（就是 `Preference->Browse Packages` 的目录）。
 
 无论采用上述哪种方式，都要重新启动 Sublime，`Ctrl+Shift+P` 打开命令面板看看能否正常使用 Install Package。
 
